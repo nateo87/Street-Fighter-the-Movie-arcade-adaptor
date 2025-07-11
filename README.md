@@ -6,5 +6,6 @@ The two "molex" connectors for the SFTM board can just be your standard pin head
 - DF1BZ-34DP-2.5DSA socket (if you're using a CPS2/3 kick harness)
 - wire and female pin headers (2.54mm pitch) for the speaker and heavy kick connections on the main board
 
-!(images/20250709_195409.jpg)
+![images/20250709_195409.jpg](https://github.com/nateo87/Street-Fighter-the-Movie-arcade-adaptor/blob/main/images/20250709_195409.jpg)
+
 And that's all there is to it!
